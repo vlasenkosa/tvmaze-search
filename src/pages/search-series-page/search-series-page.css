@@ -1,0 +1,21 @@
+.search-series-page__empty-search, .search-series-page__empty-series {
+    opacity: 0.3;
+    margin: 4rem 0;
+}
+
+.search-series-page__empty-series {
+    font-style: italic;
+}
+
+.search-series-page__spinner {
+    margin: 4rem 0;
+}
+
+.search-series-page__card {
+    text-align: left;
+    margin-top: 1rem;
+}
+
+.search-series-page__card:last-of-type {
+    margin-bottom: 2rem;
+}
